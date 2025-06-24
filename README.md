@@ -43,4 +43,4 @@ The final model predicts whether a person is **eligible for loan approval** or n
 ###  How to Run
 
 ```bash
-python Loan_Approval_Prediction_System(mini...).py
+python Loan_Approval_Prediction_System(mini_project).py
